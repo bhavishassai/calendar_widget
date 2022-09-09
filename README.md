@@ -5,8 +5,7 @@
 
 Simple calendar widget with modified ui based on [flutter_neat_and_clean_calendar](https://github.com/rwbr/flutter_neat_and_clean_calendar) package.
 
-
-![Screenshot](https://github.com/bhavishassai/calendar_widget/blob/main/ss/calendar.jpg?raw=true)
+<img height="400px" src="https://github.com/bhavishassai/calendar_widget/blob/main/ss/calendar.jpg?raw=true"/>
 
 
 ## Usage
