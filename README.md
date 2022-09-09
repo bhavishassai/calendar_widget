@@ -240,7 +240,3 @@ class _CalendarScreenState extends State<CalendarScreen> {
 
 ```
 
-For more details see the **example**.
-
-
-![Screenshot]()
