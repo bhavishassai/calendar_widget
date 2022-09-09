@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_neat_and_clean_calendar/date_utils.dart';
-import 'package:flutter_neat_and_clean_calendar/flutter_neat_and_clean_calendar.dart';
+import 'package:calendar_widget/date_utils.dart';
+import 'package:calendar_widget/calendar_widget.dart';
 import 'package:intl/intl.dart';
 
 void main() => runApp(MyApp());
