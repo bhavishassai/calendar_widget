@@ -1,8 +1,9 @@
 # Calendar Widget
 
-![Calendar]()
+<img src="https://img.icons8.com/office/80/000000/calendar--v1.png"/>
 
-Simple calendar widget with modified ui based on [flutter_neat_and_clean_calendar]https://github.com/rwbr/flutter_neat_and_clean_calendar) package.
+
+Simple calendar widget with modified ui based on [flutter_neat_and_clean_calendar](https://github.com/rwbr/flutter_neat_and_clean_calendar) package.
 
 
 ![Screenshot]()
